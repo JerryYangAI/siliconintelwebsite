@@ -102,6 +102,19 @@
         "APIアクセス"
       ]
     },
+    "annual": {
+      "name": "年間プラン",
+      "description": "12ヶ月契約で最大の節約",
+      "price": "￥330,000",
+      "features": [
+        "最大50のAIエージェント",
+        "月500,000タスク",
+        "プレミアム分析",
+        "24/7優先サポート",
+        "APIアクセス",
+        "カスタム統合"
+      ]
+    },
     "enterprise": {
       "name": "エンタープライズ",
       "description": "大企業とカスタムニーズ向け",
@@ -114,7 +127,8 @@
         "オンプレミス展開"
       ]
     },
-    "contactSales": "営業に連絡"
+    "contactSales": "営業に連絡",
+    "yearlyDiscount": "年間契約で50%割引"
   },
   "testimonials": {
     "title": "お客様の声",

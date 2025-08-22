@@ -102,6 +102,19 @@
         "API Access"
       ]
     },
+    "annual": {
+      "name": "Annual Plan",
+      "description": "12-month commitment with maximum savings",
+      "price": "$3000",
+      "features": [
+        "Up to 50 AI Agents",
+        "500,000 tasks/month",
+        "Premium Analytics",
+        "24/7 Priority Support",
+        "API Access",
+        "Custom Integrations"
+      ]
+    },
     "enterprise": {
       "name": "Enterprise",
       "description": "For large organizations and custom needs",
@@ -114,7 +127,8 @@
         "On-premise Deployment"
       ]
     },
-    "contactSales": "Contact Sales"
+    "contactSales": "Contact Sales",
+    "yearlyDiscount": "Save 50% with annual billing"
   },
   "testimonials": {
     "title": "What Our Customers Say",

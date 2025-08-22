@@ -25,6 +25,15 @@ export default function Pricing() {
       plan: 'professional'
     },
     {
+      name: t('pricing.annual.name'),
+      description: t('pricing.annual.description'),
+      price: t('pricing.annual.price'),
+      features: t('pricing.annual.features', { returnObjects: true }) as string[],
+      isPopular: false,
+      buttonStyle: 'border border-silicon-blue text-silicon-blue hover:bg-silicon-blue hover:text-white',
+      plan: 'annual'
+    },
+    {
       name: t('pricing.enterprise.name'),
       description: t('pricing.enterprise.description'),
       price: t('pricing.enterprise.price'),
@@ -47,7 +56,7 @@ export default function Pricing() {
           </p>
         </div>
         
-        <div className="grid lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
           {plans.map((plan, index) => (
             <div 
               key={index}
@@ -80,7 +89,9 @@ export default function Pricing() {
                   {plan.price}
                 </span>
                 {plan.price !== 'Custom' && plan.price !== 'カスタム' && plan.price !== '定制' && (
-                  <span className={plan.isPopular ? 'text-blue-100' : 'text-gray-600'}>/month</span>
+                  <span className={plan.isPopular ? 'text-blue-100' : 'text-gray-600'}>
+                    {plan.plan === 'annual' ? '/year' : '/month'}
+                  </span>
                 )}
               </div>
               

@@ -1,5 +1,8 @@
 import { useTranslation } from 'react-i18next';
 import { Star } from 'lucide-react';
+import businessExecutiveImg from '@assets/generated_images/Professional_business_executive_headshot_fcdd0ae5.png';
+import techFounderImg from '@assets/generated_images/Tech_startup_founder_headshot_8b45811e.png';
+import marketingDirectorImg from '@assets/generated_images/Marketing_director_professional_headshot_b1ce5cd5.png';
 
 export default function Testimonials() {
   const { t } = useTranslation();
@@ -8,17 +11,20 @@ export default function Testimonials() {
     {
       textKey: 'testimonials.testimonial1.text',
       authorKey: 'testimonials.testimonial1.author',
-      positionKey: 'testimonials.testimonial1.position'
+      positionKey: 'testimonials.testimonial1.position',
+      image: businessExecutiveImg
     },
     {
       textKey: 'testimonials.testimonial2.text',
       authorKey: 'testimonials.testimonial2.author',
-      positionKey: 'testimonials.testimonial2.position'
+      positionKey: 'testimonials.testimonial2.position',
+      image: techFounderImg
     },
     {
       textKey: 'testimonials.testimonial3.text',
       authorKey: 'testimonials.testimonial3.author',
-      positionKey: 'testimonials.testimonial3.position'
+      positionKey: 'testimonials.testimonial3.position',
+      image: marketingDirectorImg
     }
   ];
 
@@ -48,7 +54,11 @@ export default function Testimonials() {
               </p>
               
               <div className="flex items-center space-x-4">
-                <div className="w-12 h-12 bg-gray-300 rounded-full"></div>
+                <img 
+                  src={testimonials[0].image} 
+                  alt={t('testimonials.testimonial1.author')} 
+                  className="w-12 h-12 rounded-full object-cover"
+                />
                 <div>
                   <div className="font-semibold text-silicon-slate" data-testid="text-testimonial-main-author">
                     {t('testimonials.testimonial1.author')}
@@ -65,7 +75,11 @@ export default function Testimonials() {
             {testimonials.slice(1).map((testimonial, index) => (
               <div key={index} className="bg-slate-50 rounded-xl p-6" data-testid={`card-testimonial-${index + 1}`}>
                 <div className="flex items-center space-x-3 mb-3">
-                  <div className="w-10 h-10 bg-gray-300 rounded-full"></div>
+                  <img 
+                    src={testimonial.image} 
+                    alt={t(testimonial.authorKey)} 
+                    className="w-10 h-10 rounded-full object-cover"
+                  />
                   <div>
                     <div className="font-medium text-silicon-slate" data-testid={`text-testimonial-author-${index + 1}`}>
                       {t(testimonial.authorKey)}

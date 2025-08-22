@@ -102,6 +102,19 @@
         "API访问"
       ]
     },
+    "annual": {
+      "name": "年度计划",
+      "description": "12个月承诺，最大节省",
+      "price": "¥21,000",
+      "features": [
+        "最多50个AI代理",
+        "每月500,000个任务",
+        "高级分析",
+        "24/7优先支持",
+        "API访问",
+        "定制集成"
+      ]
+    },
     "enterprise": {
       "name": "企业版",
       "description": "适用于大型组织和定制需求",
@@ -114,7 +127,8 @@
         "本地部署"
       ]
     },
-    "contactSales": "联系销售"
+    "contactSales": "联系销售",
+    "yearlyDiscount": "年度账单节省50%"
   },
   "testimonials": {
     "title": "客户评价",
