@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "services": "服务",
+    "useCases": "用例",
+    "pricing": "定价",
+    "about": "关于",
+    "contact": "联系我们",
+    "getStarted": "开始使用"
+  },
+  "hero": {
+    "title": "领先的",
+    "titleHighlight": "多智能体",
+    "titleEnd": "AI平台",
+    "subtitle": "通过智能AI代理简化企业工作流程。以前所未有的速度和精度构建、部署和扩展跨行业的自动化解决方案。",
+    "startTrial": "开始免费试用",
+    "requestDemo": "申请演示",
+    "stats": {
+      "workflows": "自动化工作流程",
+      "efficiency": "效率提升",
+      "countries": "国家"
+    }
+  },
+  "companies": {
+    "trusted": "受行业领导者信赖"
+  },
+  "services": {
+    "title": "多智能体自动化完整平台",
+    "subtitle": "通过我们的综合AI代理平台，将复杂的业务流程转换为智能、自动化的工作流程",
+    "build": {
+      "title": "快速构建",
+      "description": "使用我们的框架或无代码Studio创建多智能体自动化，配备预构建模板和工具。"
+    },
+    "deploy": {
+      "title": "自信部署",
+      "description": "使用强大的部署工具和自动生成的用户界面将代理移至生产环境。"
+    },
+    "track": {
+      "title": "跟踪性能",
+      "description": "通过全面的分析、性能指标和实时洞察监控每个代理。"
+    },
+    "iterate": {
+      "title": "迭代至完美",
+      "description": "使用测试和训练工具持续改进代理团队的效率和质量。"
+    }
+  },
+  "useCases": {
+    "title": "跨行业数百个用例",
+    "subtitle": "我们的AI代理正在以真实、可衡量的结果改变全球企业",
+    "case1": {
+      "title": "AI驱动的商业智能",
+      "description": "通过分析模式并生成实时商业智能仪表板的智能代理，将原始数据转换为可操作的洞察。"
+    },
+    "case2": {
+      "title": "国际市场分析",
+      "description": "在全球市场部署代理，分析趋势、竞争对手活动和消费者行为，用于战略规划。"
+    },
+    "case3": {
+      "title": "供应链优化",
+      "description": "通过预测需求和自动化采购的AI代理，优化库存管理、物流和供应商关系。"
+    }
+  },
+  "features": {
+    "title": "释放多智能体AI的力量",
+    "subtitle": "通过我们的综合平台将复杂任务转换为无缝自动化",
+    "cloud": {
+      "title": "云端、自托管或本地工作",
+      "description": "在您的基础设施上部署或利用首选云服务，完全控制您的环境。"
+    },
+    "integration": {
+      "title": "与所有应用轻松集成",
+      "description": "无需编码即可与现有工具和工作流程连接，简化跨部门流程。"
+    },
+    "visibility": {
+      "title": "完整的可见性和控制",
+      "description": "通过详细洞察跟踪质量、效率和ROI，允许对AI投资进行持续优化。"
+    }
+  },
+  "pricing": {
+    "title": "选择您的计划",
+    "subtitle": "免费开始，随着增长使用我们灵活的定价选项扩展",
+    "starter": {
+      "name": "入门版",
+      "description": "非常适合刚开始的小团队",
+      "price": "¥699",
+      "features": [
+        "最多5个AI代理",
+        "每月10,000个任务",
+        "基础分析",
+        "邮件支持"
+      ]
+    },
+    "professional": {
+      "name": "专业版",
+      "description": "适用于成长中的企业和团队",
+      "price": "¥2,099",
+      "popular": "最受欢迎",
+      "features": [
+        "最多25个AI代理",
+        "每月100,000个任务",
+        "高级分析",
+        "优先支持",
+        "API访问"
+      ]
+    },
+    "enterprise": {
+      "name": "企业版",
+      "description": "适用于大型组织和定制需求",
+      "price": "定制",
+      "features": [
+        "无限AI代理",
+        "无限任务",
+        "定制分析",
+        "专属支持",
+        "本地部署"
+      ]
+    },
+    "contactSales": "联系销售"
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "subtitle": "加入数千家已通过AI改变运营的企业",
+    "testimonial1": {
+      "text": "Silicon-Intelligence完全改变了我们的业务流程。我们已经自动化了超过80%的手动任务，生产力提高了300%。平台非常直观，支持团队非常出色。",
+      "author": "陈莎拉",
+      "position": "首席技术官，TechFlow Industries"
+    },
+    "testimonial2": {
+      "text": "第一个月内ROI就很明显。我们的代理处理需要团队数周完成的复杂工作流程。",
+      "author": "马库斯·罗德里格斯",
+      "position": "运营主管，GlobalTech"
+    },
+    "testimonial3": {
+      "text": "Silicon-Intelligence的平台非常出色，显著加速了我们的国际扩张。",
+      "author": "田中雪",
+      "position": "创新总监，Sakura Corp"
+    }
+  },
+  "cta": {
+    "title": "准备好改变您的业务了吗？",
+    "subtitle": "加入数千家已经使用AI代理自动化工作流程的公司",
+    "startTrial": "开始免费试用",
+    "scheduleDemo": "安排演示",
+    "note": "无需信用卡 • 14天免费试用 • 随时取消"
+  },
+  "footer": {
+    "description": "领先的多智能体AI平台，赋能企业通过智能代理自动化复杂工作流程。",
+    "visit": "访问我们：siliconintel.ai",
+    "copyright": "© 2024 Silicon-Intelligence. 保留所有权利。",
+    "platform": "平台",
+    "resources": "资源",
+    "company": "公司"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "联系我们的团队了解更多关于Silicon-Intelligence的信息",
+    "form": {
+      "name": "全名",
+      "email": "电子邮件地址",
+      "company": "公司",
+      "subject": "主题",
+      "message": "消息",
+      "send": "发送消息"
+    },
+    "demo": {
+      "title": "申请演示",
+      "subtitle": "安排个性化演示",
+      "phone": "电话号码",
+      "preferredTime": "首选时间",
+      "requestDemo": "申请演示"
+    }
+  },
+  "checkout": {
+    "title": "安全支付处理",
+    "subtitle": "通过我们安全的结账今天开始您的AI自动化之旅",
+    "orderSummary": "订单摘要",
+    "total": "总计",
+    "secure": "由Stripe提供安全支付",
+    "paymentInfo": "支付信息",
+    "firstName": "名",
+    "lastName": "姓",
+    "subscribe": "开始订阅",
+    "terms": "通过订阅，您同意我们的服务条款和隐私政策。随时取消。无设置费用。"
+  }
+}

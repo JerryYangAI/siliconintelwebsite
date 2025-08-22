@@ -1,0 +1,184 @@
+{
+  "nav": {
+    "services": "Services",
+    "useCases": "Use Cases",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "The Leading",
+    "titleHighlight": "Multi-Agent",
+    "titleEnd": "AI Platform",
+    "subtitle": "Streamline enterprise workflows with intelligent AI agents. Build, deploy, and scale automated solutions across industries with unprecedented speed and precision.",
+    "startTrial": "Start Free Trial",
+    "requestDemo": "Request Demo",
+    "stats": {
+      "workflows": "Workflows Automated",
+      "efficiency": "Efficiency Gain",
+      "countries": "Countries"
+    }
+  },
+  "companies": {
+    "trusted": "Trusted by Industry Leaders"
+  },
+  "services": {
+    "title": "Complete Platform for Multi-Agent Automation",
+    "subtitle": "Transform complex business processes into intelligent, automated workflows with our comprehensive AI agent platform",
+    "build": {
+      "title": "Build Quickly",
+      "description": "Create multi-agent automations using our framework or no-code Studio with pre-built templates and tools."
+    },
+    "deploy": {
+      "title": "Deploy Confidently",
+      "description": "Move agents to production with powerful deployment tools and auto-generated user interfaces."
+    },
+    "track": {
+      "title": "Track Performance",
+      "description": "Monitor every agent with comprehensive analytics, performance metrics, and real-time insights."
+    },
+    "iterate": {
+      "title": "Iterate to Perfection",
+      "description": "Use testing and training tools to continuously improve efficiency and quality of your agent crews."
+    }
+  },
+  "useCases": {
+    "title": "Hundreds of Use Cases Across Industries",
+    "subtitle": "Our AI agents are transforming businesses worldwide with real, measurable results",
+    "case1": {
+      "title": "AI-Driven Business Intelligence",
+      "description": "Transform raw data into actionable insights with intelligent agents that analyze patterns and generate real-time business intelligence dashboards."
+    },
+    "case2": {
+      "title": "International Market Analysis",
+      "description": "Deploy agents across global markets to analyze trends, competitor activities, and consumer behavior for strategic planning."
+    },
+    "case3": {
+      "title": "Supply Chain Optimization",
+      "description": "Optimize inventory management, logistics, and supplier relationships with AI agents that predict demand and automate procurement."
+    }
+  },
+  "features": {
+    "title": "Unlock the Power of Multi-Agent AI",
+    "subtitle": "Transform complex tasks into seamless automations with our comprehensive platform",
+    "cloud": {
+      "title": "Works in Cloud, Self-Hosted or Locally",
+      "description": "Deploy on your infrastructure or leverage preferred cloud services with complete control over your environment."
+    },
+    "integration": {
+      "title": "Easy Integration with All Apps",
+      "description": "Connect with existing tools and workflows without coding, streamlining processes across departments."
+    },
+    "visibility": {
+      "title": "Complete Visibility & Control",
+      "description": "Track quality, efficiency, and ROI with detailed insights allowing continuous optimization of your AI investments."
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Start free and scale as you grow with our flexible pricing options",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfect for small teams getting started",
+      "price": "$99",
+      "features": [
+        "Up to 5 AI Agents",
+        "10,000 tasks/month",
+        "Basic Analytics",
+        "Email Support"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "For growing businesses and teams",
+      "price": "$299",
+      "popular": "Most Popular",
+      "features": [
+        "Up to 25 AI Agents",
+        "100,000 tasks/month",
+        "Advanced Analytics",
+        "Priority Support",
+        "API Access"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large organizations and custom needs",
+      "price": "Custom",
+      "features": [
+        "Unlimited AI Agents",
+        "Unlimited tasks",
+        "Custom Analytics",
+        "Dedicated Support",
+        "On-premise Deployment"
+      ]
+    },
+    "contactSales": "Contact Sales"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Join thousands of businesses transforming their operations with AI",
+    "testimonial1": {
+      "text": "Silicon-Intelligence transformed our business processes completely. We've automated over 80% of our manual tasks and seen a 300% increase in productivity. The platform is incredibly intuitive and the support team is outstanding.",
+      "author": "Sarah Chen",
+      "position": "CTO, TechFlow Industries"
+    },
+    "testimonial2": {
+      "text": "The ROI was evident within the first month. Our agents handle complex workflows that would take our team weeks to complete.",
+      "author": "Marcus Rodriguez",
+      "position": "Head of Operations, GlobalTech"
+    },
+    "testimonial3": {
+      "text": "Silicon-Intelligence's platform is remarkable and has significantly accelerated our international expansion.",
+      "author": "Yuki Tanaka",
+      "position": "Director of Innovation, Sakura Corp"
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Join thousands of companies already automating their workflows with AI agents",
+    "startTrial": "Start Free Trial",
+    "scheduleDemo": "Schedule Demo",
+    "note": "No credit card required • 14-day free trial • Cancel anytime"
+  },
+  "footer": {
+    "description": "The leading multi-agent AI platform empowering businesses to automate complex workflows with intelligent agents.",
+    "visit": "Visit us at: siliconintel.ai",
+    "copyright": "© 2024 Silicon-Intelligence. All rights reserved.",
+    "platform": "Platform",
+    "resources": "Resources",
+    "company": "Company"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team to learn more about Silicon-Intelligence",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "demo": {
+      "title": "Request a Demo",
+      "subtitle": "Schedule a personalized demonstration",
+      "phone": "Phone Number",
+      "preferredTime": "Preferred Time",
+      "requestDemo": "Request Demo"
+    }
+  },
+  "checkout": {
+    "title": "Secure Payment Processing",
+    "subtitle": "Start your AI automation journey today with our secure checkout",
+    "orderSummary": "Order Summary",
+    "total": "Total",
+    "secure": "Secure payment powered by Stripe",
+    "paymentInfo": "Payment Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "subscribe": "Start Subscription",
+    "terms": "By subscribing, you agree to our Terms of Service and Privacy Policy. Cancel anytime. No setup fees."
+  }
+}
